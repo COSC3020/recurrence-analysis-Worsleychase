@@ -70,7 +70,7 @@ The sum converges to a constant because it's a geometric series with ratio < 1.
 
 Therefore: 
 
-$$T(n) = O(n^5)$$
+$$T(n) \in O(n^5)$$
 
 # Disclaimer
 
